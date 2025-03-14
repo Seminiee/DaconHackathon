@@ -229,3 +229,4 @@ pyrightconfig.json
 .vscode/settings.json
 code_test.ipynb
 test.py
+my_test_data/
